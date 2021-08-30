@@ -69,8 +69,7 @@ You will then see an image of charts get generated at root of project called res
 $ ```python3 test.py --cfg cfg/yolov3-spp-r.cfg --weights weights/custom.pt --data data/custom.data```
 
 
-#### Need consulting to better understand computer vision implmentation for better business outcomes?
-If Artifical Intelligence Applications are important to you or your business, please get in [touch](https://www.linkedin.com/in/computer-vision-engineer/) or email ```joehoeller@gmail.com```.
+
 
 #### Consulting ideas on which this production-grade project could be forked to for real-word use cases:
 
